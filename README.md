@@ -38,3 +38,9 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 UI OUTPUT : 
 <img width="1280" alt="Screenshot 2025-01-08 at 1 50 46 PM" src="https://github.com/user-attachments/assets/df72acc4-4181-47de-8db4-909a4fb7c116" />
 
+<img width="1280" alt="Screenshot 2025-01-08 at 1 51 39 PM" src="https://github.com/user-attachments/assets/c7282290-d8b8-477d-9dfe-51f8e137f2d9" />
+
+<img width="1280" alt="Screenshot 2025-01-08 at 1 51 54 PM" src="https://github.com/user-attachments/assets/5acde65d-47b9-4495-9397-1e32fd5de827" />
+
+
+
